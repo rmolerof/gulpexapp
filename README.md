@@ -1,5 +1,9 @@
 # gulpexapp
 
+-Automates time consuming tasks
+-task runner
+-tool for building js apps
+
 In order to run make sure you run:
 
 gulp (runs default function)
